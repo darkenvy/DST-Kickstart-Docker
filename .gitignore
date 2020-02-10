@@ -1,0 +1,5 @@
+mapdata/
+steamcmd/
+serverfiles/
+config/server_settings/cluster_token.txt
+config/server_settings/adminlist.txt
