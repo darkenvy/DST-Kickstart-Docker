@@ -9,6 +9,8 @@ I find the best way to configure the server is to set up a server in DST (not de
 
 Creating new worlds is as easy as deleting the mapdata folder.
 
+note: be sure to keep `override_enabled = true,` on the second line of worldgenoverride.lua and caves_worldgenoverride.lua. Else it will be ignored.
+
 # Wont Start
 Permissions may be an issue. To solve, simply run prepare.sh. 
 
